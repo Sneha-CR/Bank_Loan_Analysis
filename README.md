@@ -91,4 +91,17 @@ To develop a complete analytical solution that allows stakeholders to:
 - Understand borrower behavior
 - Detect risk via DTI and bad loan indicators
 - Gain transparency on loan performance using KPIs
+---
+
+📈 Insights Delivered
+Identified seasonal loan application patterns
+
+Highlighted regions with higher lending activity
+
+Revealed borrower trends based on employment, ownership, and purpose
+
+Distinguished Good vs Bad loan distributions
+
+✅ Outcome
+This project demonstrates the ability to handle full-cycle analytics — from data ingestion and SQL-based analysis to interactive reporting using Power BI.
 
