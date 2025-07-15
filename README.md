@@ -49,6 +49,8 @@ Key Metrics:
 Loan Quality Insights:
 - Good Loan vs Bad Loan breakdown (Application %, Funded Amount, Amount Received)
 - Grid view by **Loan Status** with all key metrics
+  
+![image alt](https://github.com/Sneha-CR/Bank_Loan_Analysis/blob/5b4411d9ea929378750595a89a8d5c64f6cbe154/Summary.png)
 
 ---
 
@@ -66,6 +68,9 @@ Each chart visualizes:
 - Total Loan Applications
 - Total Funded Amount
 - Total Amount Received
+
+  ![image alt]()
+
 
 ---
 
