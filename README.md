@@ -92,13 +92,3 @@ To develop a complete analytical solution that allows stakeholders to:
 - Detect risk via DTI and bad loan indicators
 - Gain transparency on loan performance using KPIs
 
----
-
-## 📎 Screenshots
-
-*(Add your Power BI dashboard screenshots here)*
-
-```markdown
-![Summary Dashboard](images/summary_dashboard.png)
-![Overview Dashboard](images/overview_dashboard.png)
-![Details Dashboard](images/details_dashboard.png)
