@@ -79,8 +79,7 @@ Each chart visualizes:
 - Holistic snapshot of borrower profiles, loan performance, and application statuses
 - Designed for easy access to all critical loan metrics in one view
 
-   ![image alt](https://github.com/Sneha-CR/Bank_Loan_Analysis/blob/692b80e7c892d5892f7e3079063f885d1e988928/Overview.png)
-
+   ![image alt](https://github.com/Sneha-CR/Bank_Loan_Analysis/blob/659a512ebce0545194d573ee7b8e52c44a0320a1/Details.png)
 
 ---
 
