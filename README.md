@@ -93,15 +93,19 @@ To develop a complete analytical solution that allows stakeholders to:
 - Gain transparency on loan performance using KPIs
 ---
 
-📈 Insights Delivered
-Identified seasonal loan application patterns
+## 📈 Insights Delivered
 
-Highlighted regions with higher lending activity
+- Identified seasonal loan application patterns
 
-Revealed borrower trends based on employment, ownership, and purpose
+- Highlighted regions with higher lending activity
 
-Distinguished Good vs Bad loan distributions
+- Revealed borrower trends based on employment, ownership, and purpose
 
-✅ Outcome
+- Distinguished Good vs Bad loan distributions
+
+---
+
+## ✅ Outcome
+
 This project demonstrates the ability to handle full-cycle analytics — from data ingestion and SQL-based analysis to interactive reporting using Power BI.
 
