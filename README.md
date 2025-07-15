@@ -2,7 +2,6 @@
 This project focuses on analyzing loan application data to uncover business insights and patterns that can help financial institutions make data-driven decisions.
 # Bank Loan-dashboard
 ### 1.	Bank Loan / Summary / Overview / Details
-Example: 
 ❄️ Bank Loan Analytics: 
 A dynamic, interactive data visualization tool built to Understand the bank loan behaviour which has navigation to 2 dashboards.
 ### 2.	Short Description / Purpose
