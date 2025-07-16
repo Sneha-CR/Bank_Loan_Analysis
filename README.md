@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Analysis - Data Analyst Portfolio Project
+# 🏦 Bank Loan Application Analysis - Data Analyst Portfolio Project
 
 This project showcases an end-to-end **Bank Loan Analysis** using SQL Server for querying and Power BI for visualization. It aims to analyze loan data to extract actionable insights for better decision-making in financial services.
 
